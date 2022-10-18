@@ -12,7 +12,7 @@ from kivymd.uix.dialog import MDDialog
 from kivymd.uix.filemanager import MDFileManager
 from kivymd.uix.list import MDList, OneLineListItem
 from kivymd.uix.card import MDCardSwipe, MDCard
-from kivymd.uix.picker import MDDatePicker
+from kivymd.uix.pickers import MDDatePicker
 
 from gui.classify import predict_using_model
 import webbrowser
